@@ -6,7 +6,7 @@ Fine tuning LLMs
 
 Process of finetuning of LLM models:
 - 📄 Fine-tuning Representation Models for Classification(BERT)
-- 🔢 
+- 🔢 Fine-tuning Generation Models
 - 💾 
 - 🔍 
 - ✨
